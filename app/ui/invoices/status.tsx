@@ -12,5 +12,5 @@ export default function InvoiceStatus({status}: { status:string }) {
       },
     )}
     >
-      // </span>
+       </span>
    )}
